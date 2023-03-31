@@ -1,1 +1,1 @@
-"# TodoList-TS"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/rye852/TodoAAgit remote add origin https://github.com/rye852/TodoList-TS.gitgit branch -M maingit push -u origin main
+PLEASE Open withe A server (Live Server)
